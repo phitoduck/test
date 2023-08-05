@@ -1,0 +1,10 @@
+test-reports
+.ruff_cache
+build
+dist
+*.egg-info
+.mypy_cache
+*env
+*.env
+*cache*
+**.pyc
